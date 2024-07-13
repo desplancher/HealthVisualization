@@ -6,4 +6,7 @@
   <color name="colorAccent">#3498db</color>
   <color name="transparent">#00000000</color>
   <color name="main_color">#3DE841</color>
+	
+	<color name="background_color">#23ddeb</color>
+	<color name="text_color">#000000</color>
 </resources>
