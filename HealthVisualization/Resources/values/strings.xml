@@ -16,8 +16,8 @@
 	
 
 
-  <!-- TODO: Alterar o link do Firebase para o que você criou -->
-  <string name="firebase_url">https://health-visualization-default-rtdb.firebaseio.com/</string>
+  <!-- OK - TODO: Alterar o link do Firebase para o que você criou -->
+  <string name="firebase_url">https://easyrest-1961e-default-rtdb.firebaseio.com/</string>
 
 
 </resources>
